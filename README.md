@@ -2,7 +2,7 @@
 
 Find your favorite recipe to know the ingredients and proportions. Have Fun!
 
-## What I learn in this course 📋
+## What I learn 📋
 
 ⚡️ JavaScript and programming fundamentals: variables, data types, boolean logic, if/else statements, loops, functions, objects, arrays, and more.
 
